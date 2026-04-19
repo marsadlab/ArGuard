@@ -1,6 +1,6 @@
-# ArGuard
-ArGuard is a shared task. it ddresses harmful content in textual human–LLM interactions. As LLMs are deployed
-in Arabic-speaking markets, the ability to detect harmful user prompts is a critical safety requirement.
+# ArGuard: Track B- Textual Harmful Prompt Detection
+
+Track B- Textual Harmful Prompt Detection is subtask in ArGuard shared task. It addresses harmful content in textual human–LLM interactions. As LLMs are deployed in Arabic-speaking markets, the ability to detect harmful user prompts is a critical safety requirement.
 
 It has two subtasks:
 Subtask B-1: Binary Safety Classification. Classify each text either SAFE or UNSAFE.
